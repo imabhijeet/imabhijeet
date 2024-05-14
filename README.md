@@ -1,4 +1,4 @@
-## Hi folks👋, My name is abhijeet.##
+## Hi folks👋, My name is abhijeet.
 
 ## ⚡️ A Few Quick Facts
 - 🍀 I'm a computer science student & a Google certified UI/UX Designer.
