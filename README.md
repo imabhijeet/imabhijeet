@@ -1,11 +1,11 @@
-## Hi folks👋, My name is abhijeet.
+## Hi folks👋, My name is abhijeet.##
 
 ## ⚡️ A Few Quick Facts
-- 🍀 I'm a computer science student & google certified UI/UX Designer.
+- 🍀 I'm a computer science student & a Google certified UI/UX Designer.
 - ✨ I'm pretty much interested in the field of Software Development.
-- 🎨 I'm a hobbyist game developer, currently learning Godot Game Engine on Weekdays.
 - 🔭 I’m currently working on some cool stuffs related to frontend development.
 - 🌱 I’m currently learning Fullstack webdev (MERN) and game development with Godot on weekends.
+- 🎨 I'm a hobbyist game developer, currently learning Godot Game Engine on Weekdays.
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-sharma-994064227/)
@@ -16,7 +16,7 @@
 
 ## Coding Profiles
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/abhijeet541sharma/) 
-[!GeekForGeeks](https://www.geeksforgeeks.org/user/abhijeet541sharma/)
+[ GeekForGeeks](https://www.geeksforgeeks.org/user/abhijeet541sharma/)
 
 ## My Skillsets and Tools
 ### Programming Language
