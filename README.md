@@ -1,6 +1,6 @@
 ## Hi folks👋, My name is abhijeet.
 
-## ⚡️ A Few Quick Facts<hr>
+## ⚡️ A Few Quick Facts
 - 🍀 I'm a computer science student & google certified UI/UX Designer.
 - ✨ I'm pretty much interested in the field of Software Development.
 - 🎨 I'm a hobbyist game developer, currently learning Godot Game Engine on Weekdays.
