@@ -1,7 +1,7 @@
-## Hi folks👋, I am abhijeet
+## Hi folks👋, My name is abhijeet.
 
 ## ⚡️ A Few Quick Facts
-------------------------------
+---
 - 🍀 I'm a computer science student & google certified UI/UX Designer.
 - ✨ I'm pretty much interested in the field of Software Development.
 - 🎨 I'm a hobbyist game developer, currently learning Godot Game Engine on Weekdays.
@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Fullstack webdev (MERN) and game development with Godot on weekends.
 
 ## Connect with me
-------------------------------
+---
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-sharma-994064227/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/cosmicDev12)
 [![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/user/show/175489428-abhijeet)
@@ -17,13 +17,13 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abhijeet541sharma)
 
 ## Coding Profiles
---------
+---
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/abhijeet541sharma/) 
 [!GeekForGeeks](https://www.geeksforgeeks.org/user/abhijeet541sharma/)
 
 ## My Skillsets and Tools
+---
 ### Programming Language
-------------------------
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -54,7 +54,6 @@
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 ### Others
-----
 ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
