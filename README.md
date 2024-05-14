@@ -4,7 +4,7 @@
 - 🍀 I'm a computer science student & a Google certified UI/UX Designer.
 - ✨ I'm pretty much interested in the field of Software Development.
 - 🔭 I’m currently working on some cool stuffs related to frontend development.
-- 🌱 I’m currently learning Fullstack webdev (MERN) and game development with Godot on weekends.
+- 🌱 I’m currently learning Fullstack Web development (MERN Stack).
 - 🎨 I'm a hobbyist game developer, currently learning Godot Game Engine on Weekdays.
 
 ## Connect with me
